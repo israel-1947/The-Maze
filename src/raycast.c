@@ -1,4 +1,7 @@
 #include "../headers/main.h"
+/*
+ *Raycast of the entire game is controlled here that includes restrictions
+ */
 
 bool hitsWall(Vector pt)
 {

@@ -1,4 +1,7 @@
 #include "../headers/main.h"
+/*
+ *This code is where the game is assembled
+ */
 
 int width = 1460;
 int width2d = 720;

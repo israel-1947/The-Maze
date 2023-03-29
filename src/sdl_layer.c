@@ -1,5 +1,8 @@
 #include "../headers/main.h"
 #include <SDL2/SDL_video.h>
+/*
+ *Applying sdl to the game
+ */
 
 SDL_Renderer *renderer;
 SDL_Window *window;

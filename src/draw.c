@@ -1,4 +1,7 @@
 #include "../headers/main.h"
+/*
+ * This code contains the UI of the game
+ */
 
 int map[225] = {
 		1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,

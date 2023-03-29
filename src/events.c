@@ -1,4 +1,7 @@
 #include "../headers/main.h"
+/*
+ * This code works on the key binding that makes control movement of the game
+ */
 
 void movePlayer(const Uint8 *keyStates)
 {
